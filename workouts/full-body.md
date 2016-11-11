@@ -11,11 +11,11 @@ Chose an exercise per muscle group. Do 2-4 sets of each, 10-12 reps.
 7. Rest
 
 Example day 1:
-- chest: barbell bench press (medium grip)
-- shoulders: dumbbell bench press
-- back: bent over barbell row
-- biceps: barbell curl
-- triceps: dips
-- abs: hanging leg raise
-- legs: barbell squat
-- calves: standing calf raises
+- [] chest: barbell bench press (medium grip)
+- [] shoulders: dumbbell bench press
+- [] back: bent over barbell row
+- [] biceps: barbell curl
+- [] triceps: dips
+- [] abs: hanging leg raise
+- [] legs: barbell squat
+- [] calves: standing calf raises
