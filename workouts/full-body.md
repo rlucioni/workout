@@ -11,7 +11,7 @@ Chose an exercise per muscle group. Do 2-4 sets of each, 10-12 reps.
 7. Rest
 
 Example day 1:
-- chest: barbell bench press (medium grip)
+- chest: [barbell bench press](../exercises/chest/bench-press.md)
 - shoulders: dumbbell bench press
 - back: bent over barbell row
 - biceps: barbell curl
