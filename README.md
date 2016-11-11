@@ -1,3 +1,3 @@
 # workout
 
-Bodybuilding exercises
+Exercises and workouts
