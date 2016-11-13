@@ -28,7 +28,7 @@ Day 2:
 - shoulders: [standing behind-neck press](../exercises/shoulders/standing-behind-neck-press.md)
 - chest: [incline barbell press](../exercises/chest/incline-barbell-press.md)
 - biceps: [alternating dumbbell curl](../exercises/biceps/alternating-dumbbell-curl.md)
-- triceps: [lying dumbbell extension](../extension/triceps/lying-dumbbell-extension.md)
+- triceps: [lying dumbbell extension](../exercises/triceps/lying-dumbbell-extension.md)
 
 Day 3:
 - back: Seated cable row
