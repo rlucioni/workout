@@ -1,6 +1,6 @@
 # Full Body
 
-Chose an exercise per muscle group. Do 2-4 sets of each, 10-12 reps.
+Adapted from [Bodybuilding.com](http://www.bodybuilding.com/fun/iovate5.htm). Choose an exercise per muscle group. Do 2-4 sets of each, 10-12 reps.
 
 1. Full body (chest, shoulders, back, biceps, triceps, abs, legs, calves)
 2. Rest
