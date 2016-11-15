@@ -31,11 +31,11 @@ Day 2:
 - triceps: [lying dumbbell extension](../exercises/triceps/lying-dumbbell-extension.md)
 
 Day 3:
-- back: Seated cable row
-- chest: Dumbbell press
-- legs: Hack squat
-- triceps: Pushdown
-- biceps: Preacher curl
-- calves: Donkey calf raise
-- shoulders: Upright row
-- abs: Rope crunch
+- back: [seated cable row](../exercises/back/seated-cable-row.md)
+- chest: [dumbbell press](../exercises/chest/dumbbell-press.md)
+- legs: [hack squat](../exercises/legs/hack-squat.md)
+- triceps: [pushdown](../exercises/triceps/pushdown.md)
+- biceps: [preacher curl](../exercises/biceps/preacher-curl.md)
+- calves: [Smith machine calf raise](../exercises/calves/smith-machine-calf-raise.md)
+- shoulders: [upright row](../exercises/shoulders/upright-row.md)
+- abs: [rope crunch](../exercises/abs/rope-crunch.md)
